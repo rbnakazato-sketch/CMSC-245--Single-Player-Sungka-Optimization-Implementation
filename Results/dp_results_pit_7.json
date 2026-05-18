@@ -1,0 +1,2957 @@
+[
+    {
+        "board_index": 0,
+        "initial_board": [
+            1,
+            1,
+            6,
+            1,
+            3,
+            4,
+            3,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            1,
+            1,
+            6,
+            1,
+            0,
+            5,
+            4,
+            1
+        ],
+        "execution_time_sec": 0.00018850003834813833,
+        "execution_time_ms": 0.18850003834813833
+    },
+    {
+        "board_index": 1,
+        "initial_board": [
+            6,
+            4,
+            4,
+            3,
+            1,
+            6,
+            7,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            6,
+            4,
+            4,
+            3,
+            1,
+            6,
+            7,
+            0
+        ],
+        "execution_time_sec": 0.00019519997294992208,
+        "execution_time_ms": 0.19519997294992208
+    },
+    {
+        "board_index": 2,
+        "initial_board": [
+            7,
+            7,
+            6,
+            4,
+            5,
+            6,
+            6,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            3,
+            0
+        ],
+        "last_state": [
+            0,
+            8,
+            7,
+            1,
+            7,
+            8,
+            8,
+            2
+        ],
+        "execution_time_sec": 0.0002012000186368823,
+        "execution_time_ms": 0.2012000186368823
+    },
+    {
+        "board_index": 3,
+        "initial_board": [
+            7,
+            6,
+            2,
+            4,
+            5,
+            1,
+            3,
+            0
+        ],
+        "max_seeds": 7,
+        "best_sequence": [
+            3,
+            5,
+            1,
+            2,
+            0,
+            2,
+            5
+        ],
+        "last_state": [
+            0,
+            1,
+            0,
+            0,
+            10,
+            0,
+            10,
+            7
+        ],
+        "execution_time_sec": 0.0003766999579966068,
+        "execution_time_ms": 0.3766999579966068
+    },
+    {
+        "board_index": 4,
+        "initial_board": [
+            7,
+            3,
+            1,
+            4,
+            3,
+            2,
+            3,
+            0
+        ],
+        "max_seeds": 8,
+        "best_sequence": [
+            5,
+            4,
+            3,
+            5,
+            0,
+            1,
+            4,
+            2
+        ],
+        "last_state": [
+            0,
+            0,
+            0,
+            3,
+            1,
+            0,
+            11,
+            8
+        ],
+        "execution_time_sec": 0.00039469997864216566,
+        "execution_time_ms": 0.39469997864216566
+    },
+    {
+        "board_index": 5,
+        "initial_board": [
+            2,
+            3,
+            1,
+            1,
+            1,
+            7,
+            3,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            2,
+            3,
+            1,
+            1,
+            1,
+            7,
+            3,
+            0
+        ],
+        "execution_time_sec": 0.0001517001073807478,
+        "execution_time_ms": 0.1517001073807478
+    },
+    {
+        "board_index": 6,
+        "initial_board": [
+            6,
+            7,
+            6,
+            6,
+            5,
+            7,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            6,
+            7,
+            6,
+            6,
+            5,
+            7,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.0001642999704927206,
+        "execution_time_ms": 0.1642999704927206
+    },
+    {
+        "board_index": 7,
+        "initial_board": [
+            2,
+            6,
+            1,
+            1,
+            3,
+            6,
+            7,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            4,
+            1
+        ],
+        "last_state": [
+            2,
+            0,
+            2,
+            2,
+            1,
+            8,
+            9,
+            2
+        ],
+        "execution_time_sec": 0.00020530004985630512,
+        "execution_time_ms": 0.20530004985630512
+    },
+    {
+        "board_index": 8,
+        "initial_board": [
+            1,
+            3,
+            6,
+            2,
+            6,
+            4,
+            1,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            6
+        ],
+        "last_state": [
+            1,
+            3,
+            6,
+            2,
+            6,
+            4,
+            0,
+            1
+        ],
+        "execution_time_sec": 0.0001634999644011259,
+        "execution_time_ms": 0.1634999644011259
+    },
+    {
+        "board_index": 9,
+        "initial_board": [
+            4,
+            2,
+            6,
+            7,
+            3,
+            4,
+            1,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            6,
+            4,
+            6
+        ],
+        "last_state": [
+            4,
+            2,
+            6,
+            7,
+            0,
+            5,
+            0,
+            3
+        ],
+        "execution_time_sec": 0.0002109999768435955,
+        "execution_time_ms": 0.2109999768435955
+    },
+    {
+        "board_index": 10,
+        "initial_board": [
+            4,
+            2,
+            1,
+            5,
+            5,
+            2,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            5
+        ],
+        "last_state": [
+            4,
+            2,
+            1,
+            5,
+            5,
+            0,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.0001778999576345086,
+        "execution_time_ms": 0.1778999576345086
+    },
+    {
+        "board_index": 11,
+        "initial_board": [
+            2,
+            3,
+            5,
+            6,
+            4,
+            3,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            2
+        ],
+        "last_state": [
+            2,
+            3,
+            0,
+            7,
+            5,
+            4,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.0001612999476492405,
+        "execution_time_ms": 0.1612999476492405
+    },
+    {
+        "board_index": 12,
+        "initial_board": [
+            4,
+            7,
+            4,
+            5,
+            2,
+            1,
+            6,
+            0
+        ],
+        "max_seeds": 4,
+        "best_sequence": [
+            0,
+            5,
+            2,
+            4
+        ],
+        "last_state": [
+            0,
+            8,
+            0,
+            7,
+            0,
+            0,
+            10,
+            4
+        ],
+        "execution_time_sec": 0.0001789000816643238,
+        "execution_time_ms": 0.1789000816643238
+    },
+    {
+        "board_index": 13,
+        "initial_board": [
+            6,
+            2,
+            4,
+            5,
+            4,
+            7,
+            2,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            6,
+            2,
+            4,
+            5,
+            4,
+            7,
+            2,
+            0
+        ],
+        "execution_time_sec": 0.0001553000183776021,
+        "execution_time_ms": 0.1553000183776021
+    },
+    {
+        "board_index": 14,
+        "initial_board": [
+            2,
+            7,
+            2,
+            2,
+            5,
+            6,
+            1,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            6
+        ],
+        "last_state": [
+            2,
+            7,
+            2,
+            2,
+            5,
+            6,
+            0,
+            1
+        ],
+        "execution_time_sec": 0.00014960009139031172,
+        "execution_time_ms": 0.14960009139031172
+    },
+    {
+        "board_index": 15,
+        "initial_board": [
+            4,
+            4,
+            5,
+            4,
+            4,
+            3,
+            6,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            3,
+            2
+        ],
+        "last_state": [
+            4,
+            4,
+            0,
+            1,
+            6,
+            5,
+            8,
+            2
+        ],
+        "execution_time_sec": 0.0001556000206619501,
+        "execution_time_ms": 0.1556000206619501
+    },
+    {
+        "board_index": 16,
+        "initial_board": [
+            5,
+            2,
+            2,
+            1,
+            2,
+            6,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            2
+        ],
+        "last_state": [
+            5,
+            2,
+            0,
+            2,
+            0,
+            7,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.00013639999087899923,
+        "execution_time_ms": 0.13639999087899923
+    },
+    {
+        "board_index": 17,
+        "initial_board": [
+            1,
+            1,
+            2,
+            3,
+            5,
+            1,
+            7,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            0,
+            5
+        ],
+        "last_state": [
+            0,
+            0,
+            3,
+            0,
+            6,
+            0,
+            9,
+            2
+        ],
+        "execution_time_sec": 0.00017760007176548243,
+        "execution_time_ms": 0.17760007176548243
+    },
+    {
+        "board_index": 18,
+        "initial_board": [
+            7,
+            7,
+            5,
+            2,
+            4,
+            7,
+            5,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            2,
+            0,
+            3
+        ],
+        "last_state": [
+            0,
+            8,
+            1,
+            0,
+            7,
+            10,
+            8,
+            3
+        ],
+        "execution_time_sec": 0.000219699926674366,
+        "execution_time_ms": 0.219699926674366
+    },
+    {
+        "board_index": 19,
+        "initial_board": [
+            7,
+            4,
+            6,
+            1,
+            1,
+            5,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            0
+        ],
+        "last_state": [
+            0,
+            5,
+            7,
+            2,
+            2,
+            6,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.0002025999128818512,
+        "execution_time_ms": 0.2025999128818512
+    },
+    {
+        "board_index": 20,
+        "initial_board": [
+            1,
+            1,
+            7,
+            6,
+            7,
+            2,
+            7,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            5
+        ],
+        "last_state": [
+            1,
+            1,
+            7,
+            6,
+            7,
+            0,
+            8,
+            1
+        ],
+        "execution_time_sec": 0.0001727000344544649,
+        "execution_time_ms": 0.1727000344544649
+    },
+    {
+        "board_index": 21,
+        "initial_board": [
+            7,
+            7,
+            4,
+            5,
+            7,
+            6,
+            5,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            0,
+            2
+        ],
+        "last_state": [
+            0,
+            8,
+            0,
+            7,
+            9,
+            8,
+            7,
+            2
+        ],
+        "execution_time_sec": 0.00017799995839595795,
+        "execution_time_ms": 0.17799995839595795
+    },
+    {
+        "board_index": 22,
+        "initial_board": [
+            3,
+            3,
+            7,
+            5,
+            2,
+            4,
+            2,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            1
+        ],
+        "last_state": [
+            3,
+            0,
+            8,
+            6,
+            0,
+            5,
+            3,
+            1
+        ],
+        "execution_time_sec": 0.00016540009528398514,
+        "execution_time_ms": 0.16540009528398514
+    },
+    {
+        "board_index": 23,
+        "initial_board": [
+            6,
+            5,
+            7,
+            2,
+            7,
+            2,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            5
+        ],
+        "last_state": [
+            6,
+            5,
+            7,
+            2,
+            7,
+            0,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.0001382000045850873,
+        "execution_time_ms": 0.1382000045850873
+    },
+    {
+        "board_index": 24,
+        "initial_board": [
+            1,
+            2,
+            2,
+            4,
+            4,
+            7,
+            7,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            3
+        ],
+        "last_state": [
+            1,
+            2,
+            2,
+            0,
+            5,
+            8,
+            8,
+            1
+        ],
+        "execution_time_sec": 0.00012640003114938736,
+        "execution_time_ms": 0.12640003114938736
+    },
+    {
+        "board_index": 25,
+        "initial_board": [
+            6,
+            2,
+            1,
+            2,
+            4,
+            2,
+            3,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            5
+        ],
+        "last_state": [
+            6,
+            2,
+            1,
+            2,
+            4,
+            0,
+            4,
+            1
+        ],
+        "execution_time_sec": 0.0001330999657511711,
+        "execution_time_ms": 0.1330999657511711
+    },
+    {
+        "board_index": 26,
+        "initial_board": [
+            4,
+            3,
+            1,
+            6,
+            3,
+            2,
+            7,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            5,
+            4
+        ],
+        "last_state": [
+            4,
+            3,
+            1,
+            6,
+            0,
+            1,
+            9,
+            2
+        ],
+        "execution_time_sec": 0.0002082999562844634,
+        "execution_time_ms": 0.2082999562844634
+    },
+    {
+        "board_index": 27,
+        "initial_board": [
+            3,
+            7,
+            5,
+            1,
+            6,
+            2,
+            3,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            5,
+            2,
+            3
+        ],
+        "last_state": [
+            3,
+            7,
+            0,
+            0,
+            8,
+            0,
+            6,
+            3
+        ],
+        "execution_time_sec": 0.0003155000740662217,
+        "execution_time_ms": 0.3155000740662217
+    },
+    {
+        "board_index": 28,
+        "initial_board": [
+            5,
+            5,
+            7,
+            6,
+            2,
+            6,
+            2,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            5,
+            5,
+            7,
+            6,
+            2,
+            6,
+            2,
+            0
+        ],
+        "execution_time_sec": 0.00019970000721514225,
+        "execution_time_ms": 0.19970000721514225
+    },
+    {
+        "board_index": 29,
+        "initial_board": [
+            4,
+            2,
+            6,
+            3,
+            1,
+            3,
+            6,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            1,
+            0
+        ],
+        "last_state": [
+            0,
+            1,
+            8,
+            1,
+            0,
+            5,
+            8,
+            2
+        ],
+        "execution_time_sec": 0.0001906000543385744,
+        "execution_time_ms": 0.1906000543385744
+    },
+    {
+        "board_index": 30,
+        "initial_board": [
+            2,
+            3,
+            2,
+            2,
+            4,
+            1,
+            1,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            6,
+            0,
+            6
+        ],
+        "last_state": [
+            0,
+            4,
+            0,
+            3,
+            5,
+            0,
+            0,
+            3
+        ],
+        "execution_time_sec": 0.00019369996152818203,
+        "execution_time_ms": 0.19369996152818203
+    },
+    {
+        "board_index": 31,
+        "initial_board": [
+            4,
+            7,
+            2,
+            4,
+            7,
+            1,
+            2,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            3,
+            5
+        ],
+        "last_state": [
+            4,
+            7,
+            2,
+            0,
+            8,
+            0,
+            4,
+            2
+        ],
+        "execution_time_sec": 0.00020060001406818628,
+        "execution_time_ms": 0.20060001406818628
+    },
+    {
+        "board_index": 32,
+        "initial_board": [
+            3,
+            2,
+            4,
+            2,
+            6,
+            6,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            3,
+            2,
+            4,
+            2,
+            6,
+            6,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.0001623999560251832,
+        "execution_time_ms": 0.1623999560251832
+    },
+    {
+        "board_index": 33,
+        "initial_board": [
+            7,
+            2,
+            3,
+            3,
+            2,
+            5,
+            5,
+            0
+        ],
+        "max_seeds": 4,
+        "best_sequence": [
+            1,
+            4,
+            0,
+            2
+        ],
+        "last_state": [
+            0,
+            1,
+            0,
+            2,
+            2,
+            9,
+            9,
+            4
+        ],
+        "execution_time_sec": 0.00025749998167157173,
+        "execution_time_ms": 0.25749998167157173
+    },
+    {
+        "board_index": 34,
+        "initial_board": [
+            7,
+            2,
+            3,
+            4,
+            6,
+            7,
+            3,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            3,
+            0
+        ],
+        "last_state": [
+            0,
+            3,
+            4,
+            1,
+            8,
+            9,
+            5,
+            2
+        ],
+        "execution_time_sec": 0.0002082999562844634,
+        "execution_time_ms": 0.2082999562844634
+    },
+    {
+        "board_index": 35,
+        "initial_board": [
+            5,
+            5,
+            2,
+            2,
+            1,
+            5,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            5,
+            5,
+            2,
+            2,
+            1,
+            5,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.00015989993698894978,
+        "execution_time_ms": 0.15989993698894978
+    },
+    {
+        "board_index": 36,
+        "initial_board": [
+            6,
+            4,
+            7,
+            5,
+            5,
+            1,
+            1,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            6,
+            1,
+            6
+        ],
+        "last_state": [
+            6,
+            0,
+            8,
+            6,
+            6,
+            0,
+            0,
+            3
+        ],
+        "execution_time_sec": 0.0002346000401303172,
+        "execution_time_ms": 0.2346000401303172
+    },
+    {
+        "board_index": 37,
+        "initial_board": [
+            2,
+            1,
+            3,
+            5,
+            5,
+            2,
+            2,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            5
+        ],
+        "last_state": [
+            2,
+            1,
+            3,
+            5,
+            5,
+            0,
+            3,
+            1
+        ],
+        "execution_time_sec": 0.0001841000048443675,
+        "execution_time_ms": 0.1841000048443675
+    },
+    {
+        "board_index": 38,
+        "initial_board": [
+            4,
+            1,
+            2,
+            3,
+            5,
+            6,
+            1,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            6
+        ],
+        "last_state": [
+            4,
+            1,
+            2,
+            3,
+            5,
+            6,
+            0,
+            1
+        ],
+        "execution_time_sec": 0.0001537000061944127,
+        "execution_time_ms": 0.1537000061944127
+    },
+    {
+        "board_index": 39,
+        "initial_board": [
+            1,
+            2,
+            7,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            1
+        ],
+        "last_state": [
+            1,
+            0,
+            8,
+            0,
+            5,
+            6,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.0001756999408826232,
+        "execution_time_ms": 0.1756999408826232
+    },
+    {
+        "board_index": 40,
+        "initial_board": [
+            5,
+            6,
+            1,
+            7,
+            7,
+            4,
+            5,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            1
+        ],
+        "last_state": [
+            5,
+            0,
+            2,
+            8,
+            8,
+            5,
+            6,
+            1
+        ],
+        "execution_time_sec": 0.00013810000382363796,
+        "execution_time_ms": 0.13810000382363796
+    },
+    {
+        "board_index": 41,
+        "initial_board": [
+            2,
+            1,
+            3,
+            3,
+            5,
+            6,
+            1,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            6
+        ],
+        "last_state": [
+            2,
+            1,
+            3,
+            3,
+            5,
+            6,
+            0,
+            1
+        ],
+        "execution_time_sec": 0.0001338999718427658,
+        "execution_time_ms": 0.1338999718427658
+    },
+    {
+        "board_index": 42,
+        "initial_board": [
+            4,
+            3,
+            7,
+            5,
+            7,
+            3,
+            7,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            4,
+            3,
+            7,
+            5,
+            7,
+            3,
+            7,
+            0
+        ],
+        "execution_time_sec": 0.0001821001060307026,
+        "execution_time_ms": 0.1821001060307026
+    },
+    {
+        "board_index": 43,
+        "initial_board": [
+            4,
+            7,
+            2,
+            4,
+            4,
+            7,
+            5,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            3
+        ],
+        "last_state": [
+            4,
+            7,
+            2,
+            0,
+            5,
+            8,
+            6,
+            1
+        ],
+        "execution_time_sec": 0.0002501000417396426,
+        "execution_time_ms": 0.2501000417396426
+    },
+    {
+        "board_index": 44,
+        "initial_board": [
+            6,
+            1,
+            1,
+            7,
+            7,
+            7,
+            6,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            6,
+            1,
+            1,
+            7,
+            7,
+            7,
+            6,
+            0
+        ],
+        "execution_time_sec": 0.00024940003640949726,
+        "execution_time_ms": 0.24940003640949726
+    },
+    {
+        "board_index": 45,
+        "initial_board": [
+            1,
+            2,
+            3,
+            5,
+            4,
+            6,
+            2,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            1,
+            2,
+            3,
+            5,
+            4,
+            6,
+            2,
+            0
+        ],
+        "execution_time_sec": 0.0001935999607667327,
+        "execution_time_ms": 0.1935999607667327
+    },
+    {
+        "board_index": 46,
+        "initial_board": [
+            6,
+            1,
+            4,
+            1,
+            4,
+            5,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            1
+        ],
+        "last_state": [
+            6,
+            0,
+            0,
+            2,
+            5,
+            6,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.00037839997094124556,
+        "execution_time_ms": 0.37839997094124556
+    },
+    {
+        "board_index": 47,
+        "initial_board": [
+            4,
+            4,
+            5,
+            5,
+            7,
+            5,
+            5,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            2
+        ],
+        "last_state": [
+            4,
+            4,
+            0,
+            6,
+            8,
+            6,
+            6,
+            1
+        ],
+        "execution_time_sec": 0.0005117000546306372,
+        "execution_time_ms": 0.5117000546306372
+    },
+    {
+        "board_index": 48,
+        "initial_board": [
+            2,
+            1,
+            7,
+            6,
+            4,
+            5,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            2,
+            1,
+            7,
+            6,
+            4,
+            5,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.0002402999671176076,
+        "execution_time_ms": 0.2402999671176076
+    },
+    {
+        "board_index": 49,
+        "initial_board": [
+            5,
+            2,
+            5,
+            6,
+            3,
+            5,
+            6,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            4,
+            2
+        ],
+        "last_state": [
+            5,
+            2,
+            0,
+            7,
+            1,
+            7,
+            8,
+            2
+        ],
+        "execution_time_sec": 0.00029420002829283476,
+        "execution_time_ms": 0.29420002829283476
+    },
+    {
+        "board_index": 50,
+        "initial_board": [
+            4,
+            6,
+            2,
+            5,
+            7,
+            4,
+            3,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            1
+        ],
+        "last_state": [
+            4,
+            0,
+            3,
+            6,
+            8,
+            5,
+            4,
+            1
+        ],
+        "execution_time_sec": 0.00021190010011196136,
+        "execution_time_ms": 0.21190010011196136
+    },
+    {
+        "board_index": 51,
+        "initial_board": [
+            6,
+            7,
+            7,
+            6,
+            7,
+            3,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            6,
+            7,
+            7,
+            6,
+            7,
+            3,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.00018450000789016485,
+        "execution_time_ms": 0.18450000789016485
+    },
+    {
+        "board_index": 52,
+        "initial_board": [
+            7,
+            4,
+            3,
+            2,
+            4,
+            4,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            0
+        ],
+        "last_state": [
+            0,
+            5,
+            4,
+            3,
+            5,
+            5,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.0001922000665217638,
+        "execution_time_ms": 0.1922000665217638
+    },
+    {
+        "board_index": 53,
+        "initial_board": [
+            7,
+            6,
+            5,
+            3,
+            5,
+            2,
+            3,
+            0
+        ],
+        "max_seeds": 8,
+        "best_sequence": [
+            5,
+            2,
+            3,
+            5,
+            1,
+            2,
+            0,
+            2
+        ],
+        "last_state": [
+            0,
+            1,
+            0,
+            0,
+            11,
+            0,
+            11,
+            8
+        ],
+        "execution_time_sec": 0.0005786999827250838,
+        "execution_time_ms": 0.5786999827250838
+    },
+    {
+        "board_index": 54,
+        "initial_board": [
+            6,
+            1,
+            4,
+            4,
+            5,
+            5,
+            3,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            3,
+            1
+        ],
+        "last_state": [
+            6,
+            0,
+            0,
+            1,
+            7,
+            7,
+            5,
+            2
+        ],
+        "execution_time_sec": 0.00019240006804466248,
+        "execution_time_ms": 0.19240006804466248
+    },
+    {
+        "board_index": 55,
+        "initial_board": [
+            7,
+            6,
+            5,
+            3,
+            5,
+            3,
+            7,
+            0
+        ],
+        "max_seeds": 4,
+        "best_sequence": [
+            2,
+            3,
+            1,
+            0
+        ],
+        "last_state": [
+            0,
+            1,
+            2,
+            2,
+            9,
+            7,
+            11,
+            4
+        ],
+        "execution_time_sec": 0.0003114000428467989,
+        "execution_time_ms": 0.3114000428467989
+    },
+    {
+        "board_index": 56,
+        "initial_board": [
+            4,
+            2,
+            2,
+            3,
+            6,
+            7,
+            1,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            6,
+            1,
+            6
+        ],
+        "last_state": [
+            4,
+            0,
+            3,
+            0,
+            7,
+            8,
+            0,
+            3
+        ],
+        "execution_time_sec": 0.00026519992388784885,
+        "execution_time_ms": 0.26519992388784885
+    },
+    {
+        "board_index": 57,
+        "initial_board": [
+            7,
+            7,
+            2,
+            7,
+            1,
+            7,
+            3,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            0
+        ],
+        "last_state": [
+            0,
+            8,
+            3,
+            8,
+            2,
+            8,
+            4,
+            1
+        ],
+        "execution_time_sec": 0.0002109999768435955,
+        "execution_time_ms": 0.2109999768435955
+    },
+    {
+        "board_index": 58,
+        "initial_board": [
+            4,
+            5,
+            3,
+            2,
+            3,
+            3,
+            7,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            4,
+            5,
+            3,
+            2,
+            0,
+            4,
+            8,
+            1
+        ],
+        "execution_time_sec": 0.00036179996095597744,
+        "execution_time_ms": 0.36179996095597744
+    },
+    {
+        "board_index": 59,
+        "initial_board": [
+            7,
+            2,
+            6,
+            7,
+            7,
+            6,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            0
+        ],
+        "last_state": [
+            0,
+            3,
+            7,
+            8,
+            8,
+            7,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.0005641999887302518,
+        "execution_time_ms": 0.5641999887302518
+    },
+    {
+        "board_index": 60,
+        "initial_board": [
+            2,
+            3,
+            7,
+            6,
+            7,
+            4,
+            5,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            2,
+            3,
+            7,
+            6,
+            7,
+            4,
+            5,
+            0
+        ],
+        "execution_time_sec": 0.0007857999298721552,
+        "execution_time_ms": 0.7857999298721552
+    },
+    {
+        "board_index": 61,
+        "initial_board": [
+            4,
+            3,
+            2,
+            7,
+            4,
+            3,
+            6,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            4,
+            3,
+            2,
+            7,
+            4,
+            3,
+            6,
+            0
+        ],
+        "execution_time_sec": 0.00027710001450031996,
+        "execution_time_ms": 0.27710001450031996
+    },
+    {
+        "board_index": 62,
+        "initial_board": [
+            1,
+            3,
+            4,
+            1,
+            6,
+            6,
+            1,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            6
+        ],
+        "last_state": [
+            1,
+            3,
+            4,
+            1,
+            6,
+            6,
+            0,
+            1
+        ],
+        "execution_time_sec": 0.0004116999916732311,
+        "execution_time_ms": 0.4116999916732311
+    },
+    {
+        "board_index": 63,
+        "initial_board": [
+            7,
+            2,
+            4,
+            4,
+            6,
+            4,
+            5,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            3,
+            0,
+            2
+        ],
+        "last_state": [
+            0,
+            3,
+            0,
+            2,
+            9,
+            7,
+            8,
+            3
+        ],
+        "execution_time_sec": 0.0005301999626681209,
+        "execution_time_ms": 0.5301999626681209
+    },
+    {
+        "board_index": 64,
+        "initial_board": [
+            1,
+            6,
+            2,
+            1,
+            7,
+            1,
+            4,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            1,
+            5
+        ],
+        "last_state": [
+            1,
+            0,
+            3,
+            2,
+            8,
+            0,
+            6,
+            2
+        ],
+        "execution_time_sec": 0.00020899996161460876,
+        "execution_time_ms": 0.20899996161460876
+    },
+    {
+        "board_index": 65,
+        "initial_board": [
+            3,
+            1,
+            2,
+            2,
+            4,
+            2,
+            5,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            5
+        ],
+        "last_state": [
+            3,
+            1,
+            2,
+            2,
+            4,
+            0,
+            6,
+            1
+        ],
+        "execution_time_sec": 0.00029250001534819603,
+        "execution_time_ms": 0.29250001534819603
+    },
+    {
+        "board_index": 66,
+        "initial_board": [
+            5,
+            7,
+            7,
+            3,
+            4,
+            4,
+            3,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            5,
+            7,
+            7,
+            3,
+            4,
+            4,
+            3,
+            0
+        ],
+        "execution_time_sec": 0.0002332000294700265,
+        "execution_time_ms": 0.2332000294700265
+    },
+    {
+        "board_index": 67,
+        "initial_board": [
+            4,
+            3,
+            2,
+            5,
+            7,
+            7,
+            1,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            6
+        ],
+        "last_state": [
+            4,
+            3,
+            2,
+            5,
+            7,
+            7,
+            0,
+            1
+        ],
+        "execution_time_sec": 0.00028089992702007294,
+        "execution_time_ms": 0.28089992702007294
+    },
+    {
+        "board_index": 68,
+        "initial_board": [
+            4,
+            1,
+            5,
+            6,
+            1,
+            2,
+            7,
+            0
+        ],
+        "max_seeds": 4,
+        "best_sequence": [
+            5,
+            2,
+            0,
+            5
+        ],
+        "last_state": [
+            0,
+            2,
+            1,
+            8,
+            0,
+            0,
+            11,
+            4
+        ],
+        "execution_time_sec": 0.00029749993700534105,
+        "execution_time_ms": 0.29749993700534105
+    },
+    {
+        "board_index": 69,
+        "initial_board": [
+            3,
+            3,
+            6,
+            2,
+            2,
+            1,
+            3,
+            0
+        ],
+        "max_seeds": 4,
+        "best_sequence": [
+            1,
+            5,
+            0,
+            4
+        ],
+        "last_state": [
+            0,
+            1,
+            8,
+            0,
+            0,
+            0,
+            7,
+            4
+        ],
+        "execution_time_sec": 0.00027489999774843454,
+        "execution_time_ms": 0.27489999774843454
+    },
+    {
+        "board_index": 70,
+        "initial_board": [
+            2,
+            7,
+            1,
+            4,
+            6,
+            7,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            3
+        ],
+        "last_state": [
+            2,
+            7,
+            1,
+            0,
+            7,
+            8,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.00018860003910958767,
+        "execution_time_ms": 0.18860003910958767
+    },
+    {
+        "board_index": 71,
+        "initial_board": [
+            5,
+            7,
+            2,
+            1,
+            4,
+            4,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            5,
+            7,
+            2,
+            1,
+            4,
+            4,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.00019519997294992208,
+        "execution_time_ms": 0.19519997294992208
+    },
+    {
+        "board_index": 72,
+        "initial_board": [
+            2,
+            7,
+            2,
+            6,
+            2,
+            3,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            2
+        ],
+        "last_state": [
+            2,
+            7,
+            0,
+            7,
+            0,
+            4,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.000215300009585917,
+        "execution_time_ms": 0.215300009585917
+    },
+    {
+        "board_index": 73,
+        "initial_board": [
+            6,
+            7,
+            2,
+            3,
+            3,
+            4,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            6,
+            7,
+            2,
+            3,
+            0,
+            5,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.00022839999292045832,
+        "execution_time_ms": 0.22839999292045832
+    },
+    {
+        "board_index": 74,
+        "initial_board": [
+            3,
+            4,
+            3,
+            6,
+            6,
+            3,
+            6,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            3,
+            4,
+            3,
+            6,
+            6,
+            3,
+            6,
+            0
+        ],
+        "execution_time_sec": 0.0002631999086588621,
+        "execution_time_ms": 0.2631999086588621
+    },
+    {
+        "board_index": 75,
+        "initial_board": [
+            5,
+            4,
+            6,
+            5,
+            6,
+            3,
+            6,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            5,
+            4,
+            6,
+            5,
+            6,
+            3,
+            6,
+            0
+        ],
+        "execution_time_sec": 0.00019019993487745523,
+        "execution_time_ms": 0.19019993487745523
+    },
+    {
+        "board_index": 76,
+        "initial_board": [
+            5,
+            2,
+            7,
+            4,
+            4,
+            4,
+            7,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            3
+        ],
+        "last_state": [
+            5,
+            2,
+            7,
+            0,
+            5,
+            5,
+            8,
+            1
+        ],
+        "execution_time_sec": 0.0005052000051364303,
+        "execution_time_ms": 0.5052000051364303
+    },
+    {
+        "board_index": 77,
+        "initial_board": [
+            6,
+            7,
+            6,
+            2,
+            2,
+            7,
+            7,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            6,
+            7,
+            6,
+            2,
+            2,
+            7,
+            7,
+            0
+        ],
+        "execution_time_sec": 0.00021650001872330904,
+        "execution_time_ms": 0.21650001872330904
+    },
+    {
+        "board_index": 78,
+        "initial_board": [
+            7,
+            4,
+            7,
+            5,
+            1,
+            6,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            0
+        ],
+        "last_state": [
+            0,
+            5,
+            8,
+            6,
+            2,
+            7,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.00022270006593316793,
+        "execution_time_ms": 0.22270006593316793
+    },
+    {
+        "board_index": 79,
+        "initial_board": [
+            1,
+            1,
+            5,
+            7,
+            3,
+            3,
+            3,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            4,
+            2
+        ],
+        "last_state": [
+            1,
+            1,
+            0,
+            8,
+            1,
+            5,
+            5,
+            2
+        ],
+        "execution_time_sec": 0.0002578999847173691,
+        "execution_time_ms": 0.2578999847173691
+    },
+    {
+        "board_index": 80,
+        "initial_board": [
+            2,
+            3,
+            4,
+            2,
+            3,
+            4,
+            4,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            4,
+            0
+        ],
+        "last_state": [
+            0,
+            4,
+            0,
+            3,
+            1,
+            6,
+            6,
+            2
+        ],
+        "execution_time_sec": 0.00023669993970543146,
+        "execution_time_ms": 0.23669993970543146
+    },
+    {
+        "board_index": 81,
+        "initial_board": [
+            7,
+            7,
+            3,
+            1,
+            1,
+            7,
+            1,
+            0
+        ],
+        "max_seeds": 3,
+        "best_sequence": [
+            6,
+            0,
+            6
+        ],
+        "last_state": [
+            0,
+            8,
+            4,
+            2,
+            2,
+            8,
+            0,
+            3
+        ],
+        "execution_time_sec": 0.00025580008514225483,
+        "execution_time_ms": 0.25580008514225483
+    },
+    {
+        "board_index": 82,
+        "initial_board": [
+            4,
+            6,
+            5,
+            7,
+            5,
+            7,
+            3,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            2,
+            1
+        ],
+        "last_state": [
+            4,
+            0,
+            1,
+            9,
+            7,
+            9,
+            5,
+            2
+        ],
+        "execution_time_sec": 0.0002440999960526824,
+        "execution_time_ms": 0.2440999960526824
+    },
+    {
+        "board_index": 83,
+        "initial_board": [
+            5,
+            7,
+            5,
+            1,
+            4,
+            6,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            2
+        ],
+        "last_state": [
+            5,
+            7,
+            0,
+            2,
+            5,
+            7,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.00029090000316500664,
+        "execution_time_ms": 0.29090000316500664
+    },
+    {
+        "board_index": 84,
+        "initial_board": [
+            3,
+            5,
+            6,
+            2,
+            3,
+            7,
+            6,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            3,
+            5,
+            6,
+            2,
+            0,
+            8,
+            7,
+            1
+        ],
+        "execution_time_sec": 0.0002079999540001154,
+        "execution_time_ms": 0.2079999540001154
+    },
+    {
+        "board_index": 85,
+        "initial_board": [
+            7,
+            3,
+            6,
+            2,
+            3,
+            7,
+            6,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            4,
+            0
+        ],
+        "last_state": [
+            0,
+            4,
+            7,
+            3,
+            1,
+            9,
+            8,
+            2
+        ],
+        "execution_time_sec": 0.00019459996838122606,
+        "execution_time_ms": 0.19459996838122606
+    },
+    {
+        "board_index": 86,
+        "initial_board": [
+            4,
+            5,
+            2,
+            3,
+            1,
+            5,
+            5,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            4,
+            5,
+            2,
+            3,
+            1,
+            5,
+            5,
+            0
+        ],
+        "execution_time_sec": 0.0001439000479876995,
+        "execution_time_ms": 0.1439000479876995
+    },
+    {
+        "board_index": 87,
+        "initial_board": [
+            4,
+            4,
+            7,
+            3,
+            2,
+            2,
+            1,
+            0
+        ],
+        "max_seeds": 9,
+        "best_sequence": [
+            6,
+            5,
+            6,
+            0,
+            6,
+            3,
+            6,
+            5,
+            6
+        ],
+        "last_state": [
+            0,
+            5,
+            8,
+            0,
+            1,
+            0,
+            0,
+            9
+        ],
+        "execution_time_sec": 0.00036910001654177904,
+        "execution_time_ms": 0.36910001654177904
+    },
+    {
+        "board_index": 88,
+        "initial_board": [
+            5,
+            3,
+            4,
+            6,
+            3,
+            6,
+            2,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            5,
+            3,
+            4,
+            6,
+            0,
+            7,
+            3,
+            1
+        ],
+        "execution_time_sec": 0.00020969996694475412,
+        "execution_time_ms": 0.20969996694475412
+    },
+    {
+        "board_index": 89,
+        "initial_board": [
+            2,
+            7,
+            6,
+            5,
+            3,
+            4,
+            4,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            2,
+            7,
+            6,
+            5,
+            0,
+            5,
+            5,
+            1
+        ],
+        "execution_time_sec": 0.00015480001457035542,
+        "execution_time_ms": 0.15480001457035542
+    },
+    {
+        "board_index": 90,
+        "initial_board": [
+            1,
+            2,
+            7,
+            1,
+            1,
+            3,
+            2,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            1,
+            2,
+            7,
+            1,
+            1,
+            3,
+            2,
+            0
+        ],
+        "execution_time_sec": 0.00018079997971653938,
+        "execution_time_ms": 0.18079997971653938
+    },
+    {
+        "board_index": 91,
+        "initial_board": [
+            7,
+            4,
+            7,
+            7,
+            2,
+            7,
+            7,
+            0
+        ],
+        "max_seeds": 2,
+        "best_sequence": [
+            0,
+            4
+        ],
+        "last_state": [
+            0,
+            5,
+            8,
+            8,
+            0,
+            9,
+            9,
+            2
+        ],
+        "execution_time_sec": 0.00022250006441026926,
+        "execution_time_ms": 0.22250006441026926
+    },
+    {
+        "board_index": 92,
+        "initial_board": [
+            4,
+            1,
+            2,
+            1,
+            4,
+            3,
+            4,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            4,
+            1,
+            2,
+            1,
+            4,
+            3,
+            4,
+            0
+        ],
+        "execution_time_sec": 0.00019129994325339794,
+        "execution_time_ms": 0.19129994325339794
+    },
+    {
+        "board_index": 93,
+        "initial_board": [
+            4,
+            1,
+            2,
+            6,
+            1,
+            6,
+            2,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            4,
+            1,
+            2,
+            6,
+            1,
+            6,
+            2,
+            0
+        ],
+        "execution_time_sec": 0.0002848000731319189,
+        "execution_time_ms": 0.2848000731319189
+    },
+    {
+        "board_index": 94,
+        "initial_board": [
+            6,
+            6,
+            2,
+            1,
+            3,
+            2,
+            5,
+            0
+        ],
+        "max_seeds": 4,
+        "best_sequence": [
+            5,
+            4,
+            1,
+            5
+        ],
+        "last_state": [
+            6,
+            0,
+            3,
+            2,
+            1,
+            0,
+            9,
+            4
+        ],
+        "execution_time_sec": 0.0003541000187397003,
+        "execution_time_ms": 0.3541000187397003
+    },
+    {
+        "board_index": 95,
+        "initial_board": [
+            5,
+            7,
+            2,
+            4,
+            4,
+            3,
+            2,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            3
+        ],
+        "last_state": [
+            5,
+            7,
+            2,
+            0,
+            5,
+            4,
+            3,
+            1
+        ],
+        "execution_time_sec": 0.00016880000475794077,
+        "execution_time_ms": 0.16880000475794077
+    },
+    {
+        "board_index": 96,
+        "initial_board": [
+            6,
+            1,
+            1,
+            7,
+            3,
+            4,
+            7,
+            0
+        ],
+        "max_seeds": 1,
+        "best_sequence": [
+            4
+        ],
+        "last_state": [
+            6,
+            1,
+            1,
+            7,
+            0,
+            5,
+            8,
+            1
+        ],
+        "execution_time_sec": 0.000577900093048811,
+        "execution_time_ms": 0.577900093048811
+    },
+    {
+        "board_index": 97,
+        "initial_board": [
+            1,
+            4,
+            2,
+            6,
+            7,
+            5,
+            2,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            1,
+            4,
+            2,
+            6,
+            7,
+            5,
+            2,
+            0
+        ],
+        "execution_time_sec": 0.00023220002185553312,
+        "execution_time_ms": 0.23220002185553312
+    },
+    {
+        "board_index": 98,
+        "initial_board": [
+            4,
+            4,
+            7,
+            5,
+            6,
+            5,
+            7,
+            0
+        ],
+        "max_seeds": 0,
+        "best_sequence": [],
+        "last_state": [
+            4,
+            4,
+            7,
+            5,
+            6,
+            5,
+            7,
+            0
+        ],
+        "execution_time_sec": 0.0002421000972390175,
+        "execution_time_ms": 0.2421000972390175
+    },
+    {
+        "board_index": 99,
+        "initial_board": [
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+        ],
+        "max_seeds": 27,
+        "best_sequence": [
+            6,
+            5,
+            6,
+            4,
+            6,
+            3,
+            6,
+            5,
+            6,
+            2,
+            6,
+            1,
+            6,
+            5,
+            6,
+            4,
+            6,
+            3,
+            6,
+            0,
+            6,
+            1,
+            6,
+            4,
+            6,
+            3,
+            6
+        ],
+        "last_state": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            27
+        ],
+        "execution_time_sec": 0.01630329992622137,
+        "execution_time_ms": 16.30329992622137
+    }
+]
